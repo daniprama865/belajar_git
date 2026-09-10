@@ -3,11 +3,8 @@
 "baris ketiga"
 "baris keempat"
 "baris kelima"
-<<<<<<< HEAD
 "baris keenam versi MASTER"
-=======
 "baris keenam diedit dari FITUR KONFLIK"
->>>>>>> fitur-konflik
 
 =========
 

@@ -4,7 +4,3 @@
 "baris keempat"
 "baris kelima"
 "baris keenam"
-
-=========
-
-"baris fitur baru"

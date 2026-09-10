@@ -3,7 +3,7 @@
 "baris ketiga"
 "baris keempat"
 "baris kelima"
-"baris keenam diedit dari master"
+"baris keenam versi MASTER"
 
 =========
 
